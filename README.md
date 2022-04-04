@@ -1,5 +1,4 @@
 # movies-challenge
-
 1. Implement topWatchlistedMoviesAmongFriends method that will return an array of top four movie titles,
   that have been most watchlisted by friends of a given user.
 
